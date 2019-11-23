@@ -1,13 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Readme.md</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
-
 <body class="stackedit">
   <div class="stackedit__html"><p><a href="http://Readme.md">Readme.md</a><sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></p>
 <h1 id="sat-solver">SAT-SOLVER</h1>
