@@ -4,7 +4,7 @@
 <body class="stackedit">
   <div class="stackedit__html"><p><a href="http://README.md">README.md</a><sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></p>
 <h1 id="sat-solver">SAT-SOLVER</h1>
-<p><strong>A python3 implementation of the famous NP-Complete “Satisfiability Solver” problem.</strong></p>
+<p><strong>A basic python3 implementation of the famous NP-Complete “Satisfiability Solver” problem.</strong></p>
 <p><strong>Instructions to use -</strong></p>
 <ul>
 <li>Generate a text file from problem CNF, for which the satisfiability is to be tested, in the given format</li>
