@@ -64,7 +64,7 @@ class SatSolver:
 
         for clause in cnf:
             if len(clause) == 0:
-                print('\t!!!ERROR......ERROR!!!')
+                print('\t..!!!...!!!..')
                 for i in true:
                     self.true.remove(i)
                 for i in false:
