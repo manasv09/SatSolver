@@ -146,8 +146,8 @@ class SatSolver:
             clause = str(' + '.join(clause))
             k += ('(' + clause + ')').strip()
 
-        if message == '':
-            print(str(k))
+        if len(k) == 0:
+            print(str(message), '(' + ')')
         else:
             print(str(message), str(k))
 
