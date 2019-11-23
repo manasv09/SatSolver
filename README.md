@@ -1,4 +1,4 @@
-﻿# SAT-SOLVER[^1]
+﻿# SAT-SOLVER [^1]
 
 **A python3 implementation of the famous NP-Complete "Satisfiability Solver" problem.**
 
