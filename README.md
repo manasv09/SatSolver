@@ -1,4 +1,6 @@
-﻿# SAT-SOLVER [^1]
+﻿# SAT-SOLVER
+
+- Author: Manas Vashistha
 
 **A python3 implementation of the famous NP-Complete "Satisfiability Solver" problem.**
 
@@ -43,4 +45,3 @@ Unit Clauses:= (B)
         Result: SATISFIABLE
         Solution: (B)(A)
 ```
-[^1]: Author: Manas Vashistha
