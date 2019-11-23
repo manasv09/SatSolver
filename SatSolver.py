@@ -104,10 +104,10 @@ class SatSolver:
             solution = ''
 
             for tr in self.true:
-                solution += ('('+tr+')')
+                solution += ('(' + tr + ')')
                 # print('\t\t', tr, '= 1')
             for fl in self.false:
-                solution += ('('+fl[-1]+ '\u0305'+')')
+                solution += ('(' + fl[-1] + '\u0305' + ')')
                 # print('\t\t', fl[-1], '= 0')
             print('\t\tSolution:', solution)
             return True
@@ -152,4 +152,6 @@ class SatSolver:
             print(str(message), str(k))
 
 
-ss = SatSolver('input.txt')
+if __name__ == '__main__':
+    path = sys.argv[1]
+    ss = SatSolver(path)
