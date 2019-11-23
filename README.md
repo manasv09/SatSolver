@@ -30,7 +30,7 @@ C A
 
 Initial CNF:= (A + B̅)(C + A)(A̅ + B)
 Updated CNF:= (A + B̅)(C + A)(A̅ + B)
-Unit Clauses:= 
+Unit Clauses:= ()
 
 
 Initial CNF:= (A + B̅)(A)(C + A)(A̅ + B)
@@ -39,7 +39,7 @@ Unit Clauses:= (A)
 
 
 Initial CNF:= (B)
-Updated CNF:= 
+Updated CNF:= ()
 Unit Clauses:= (B)
 
 
